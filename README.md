@@ -1,3 +1,7 @@
 # Ema-2.0
 - Mission:
-.Rules: 
+- Vision
+- Rules 
+# Stories 
+- Products
+- 
